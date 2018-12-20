@@ -6,7 +6,7 @@ from itertools import cycle
 import json
 #import config
 
-TOKEN = 'NTI1MDM5NzUyOTcwMzcxMTA1.DvxjoA.Sx3ZslCRcPn9rPm2ccnkMYd74Uw'
+TOKEN = ''
 
 bot = commands.Bot(command_prefix = '$')
 #client = commands.Bot(command_prefix = '.')
